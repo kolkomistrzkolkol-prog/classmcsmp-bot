@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
-    "password": "",
+    "username": "ClassMCSMP",
+    "password": "classmcsmp",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "ClassMCSMP.aternos.me",
+    "port": 37638,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Slobos"
+      "password": "classmcsmp"
     },
     "anti-afk": {
       "enabled": true,
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Podoba się? Oceń na Discord (https://discord-classmc.startit.fun/discord).",
+        "Graj na wersji Java lub Bedrock! Tutaj połączysz konta: https://link.geysermc.org/start .",
+        "Serwer SMP? To jest to!"
       ]
     },
     "chat-log": true,
